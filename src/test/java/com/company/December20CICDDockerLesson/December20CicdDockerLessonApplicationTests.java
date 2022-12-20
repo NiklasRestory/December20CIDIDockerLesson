@@ -21,8 +21,8 @@ class December20CicdDockerLessonApplicationTests {
 		assertEquals(expected, actual);
 	}
 	
-	@Test
+	/*@Test // CI/CD will fail with this.
 	public void failingTest() {
 		fail();
-	}
+	}*/
 }
